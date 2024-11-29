@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mostaza">#154457</color>
+    <color name="rojo">#A30532</color>
+    <color name="medium_red_blue">#FF6F61</color>
+    <!--color name="primary_color">#275568</color-->
+    <!--color name="background_color">#ffcc80</color-->
+    <!--color name="text_color">#FFFFFF</color-->
+    <color name="icon_color">#FFFFFF</color>
+    <color name="light_background">#F0F4F8</color>
+    <color name="dark_text">#333333</color>
+    <color name="event_background">#2C6D83</color> <!-- Fondo azul oscuro -->
+    <color name="primary_text">#FFFFFF</color> <!-- Texto blanco -->
+
+    <!-- Dark Red color theme -->
+    <color name="accent_color">#E51E1B</color>
+    <color name="background_color">#282F32</color>
+    <color name="text_color">#fff</color>
+    <color name="tertiary_color">#7D1416</color>
+    <color name="secondary_color">#C0191F</color>
+    <color name="primary_color">#E51E1B</color>
+    <color name="shadow_color">#E51E1B</color>
+
+</resources>

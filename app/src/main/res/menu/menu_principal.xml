@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemListar"
+        android:title="Listar" />
+
+    <item
+        android:id="@+id/itemCRUD"
+        android:title="Mantenimiento">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/itemRegistrarPaciente"
+                    android:icon="@drawable/ic_registrar"
+                    android:title="Registrar"
+                    app:showAsAction="ifRoom" />
+                <item
+                    android:id="@+id/itemDetallePaciente"
+                    android:title="Detalle" />
+                <item
+                    android:id="@+id/itemEliminarPaciente"
+                    android:title="Eliminar" />
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/itemSalir"
+        android:title="Salir" />
+</menu>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240334643378",
+    "project_id": "jotdown-planner",
+    "storage_bucket": "jotdown-planner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240334643378:android:136da8ed715d071f1569ab",
+        "android_client_info": {
+          "package_name": "pe.upn.AppJotDownPlanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAScyFlCpRhuRG5pObvtiRH8254Q_Af4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

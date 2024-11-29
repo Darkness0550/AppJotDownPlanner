@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorSecondary">@color/secondary_color</item>
+        <item name="colorTertiary">@color/tertiary_color</item>
+        <item name="android:colorBackground">@color/background_color</item>
+        <item name="colorAccent">@color/accent_color</item>
+        <item name="textFillColor">@color/text_color</item>
+        <item name="android:shadowColor">@color/shadow_color</item>
+        <item name="android:textColor">#fff</item>
+        <item name="colorSurface">@color/background_color</item>
+    </style>
+
+    <style name="Theme.AppSalud" parent="Base.Theme.AppSalud" />
+    <style name="Etiqueta_titulos">
+        <item name="android:shadowColor">#7A7777</item>
+        <item name="android:shadowDx">5</item>
+        <item name="android:shadowDy">5</item>
+        <item name="android:shadowRadius">5</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

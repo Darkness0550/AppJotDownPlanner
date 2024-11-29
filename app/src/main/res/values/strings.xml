@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppSalud</string>
+    <string name="select_date">Selecciona una Fecha</string>
+    <string name="welcome_to_app">Bienvenido(a) Desconocido</string>
+    <string name="insert_activity">Agregar actividad</string>
+    <string name="recent_added">Recien agregado</string>
+    <string name="activity_name">Nombre de actividad</string>
+    <string name="activity_desc">Desc. de actividad</string>
+    <string name="task_name_ex">Nombre de tarea</string>
+    <string name="task_desc_ex">Descripción de tarea</string>
+    <string name="task_date_ex">15/08/10</string>
+    <string name="task_time_ex">09:00 AM</string>
+</resources>

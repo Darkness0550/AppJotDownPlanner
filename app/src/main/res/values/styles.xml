@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estilo para el texto "derritiéndose" -->
+    <style name="MeltingTextStyle">
+        <item name="android:textColor">@color/medium_red_blue</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:fontFamily">@font/melting_font</item> <!-- Asegúrate de que la fuente esté en res/font/ -->
+        <!-- Otros atributos que desees agregar -->
+    </style>
+
+    <style name="CustomCalendarMonth" parent="AppTheme">
+        <item name="android:textColorPrimary">@color/primary_color</item>
+    </style>
+
+    <style name="CustomCalendarDay" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="CustomCalendarWeek" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="TimePickerStyle">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+        <item name="android:timePickerStyle">@style/CustomTimePicker</item>
+    </style>
+
+    <style name="CustomTimePicker" parent="@android:style/Widget.Material.TimePicker">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>

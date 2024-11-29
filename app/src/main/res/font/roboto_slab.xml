@@ -1,0 +1,4 @@
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:font="@font/roboto_slab"
+    tools:ignore="ResourceCycle" />
